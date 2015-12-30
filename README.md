@@ -1,0 +1,2 @@
+# yafsample
+testing gitlab webhook
